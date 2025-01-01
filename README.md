@@ -16,8 +16,8 @@
 - **Tools:** Git, Docker, VS Code  
 
 📫 **Get in Touch**  
-- Email: [your-email@example.com](mailto:abhishekkumarcse2015@fmail.com)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abhishek-kumar-56a668215/)  
+- Email: [Email](mailto:abhishekkumarcse2015@fmail.com)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abhishek-kumar-56a668215/)  
 
 🌟 Let's collaborate on something amazing!  
 
