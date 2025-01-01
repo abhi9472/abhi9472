@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abhishek Kumar  
 
-<!--
-**abhi9472/abhi9472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me-->  
+- 💻 Final-year student at **Chandigarh University**, specializing in **MERN stack development** and **Java programming**.  
+- 🔢 Solved **900+ LeetCode problems** and participated in regular coding contests.  
+- 🌱 Currently learning advanced concepts in web development and real-time data processing.  
+- 🚀 Created impactful projects like **PG Finder** and **Hostel Hub**.  
 
-Here are some ideas to get you started:
+📈 **Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi9472&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9472&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Skills**  
+- **Languages:** Java, JavaScript, Python  
+- **Technologies:** React.js, Node.js, MongoDB, SQL  
+- **Tools:** Git, Docker, VS Code  
+
+📫 **Get in Touch**  
+- Email: [your-email@example.com](mailto:abhishekkumarcse2015@fmail.com)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abhishek-kumar-56a668215/)  
+
+🌟 Let's collaborate on something amazing!  
+
+---
+
