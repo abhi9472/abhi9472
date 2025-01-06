@@ -12,7 +12,7 @@
 
 💡 **Skills**  
 - **Languages:** Java, JavaScript, Python  
-- **Technologies:** React.js, Node.js, MongoDB, SQL, NoSQL  
+- **Technologies:** React.js, Node.js, Express.js, MongoDB, SQL, NoSQL  
 - **Tools:** Git, Docker, VS Code  
 
 📫 **Get in Touch**  
